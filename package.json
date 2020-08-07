@@ -5,7 +5,10 @@
   "main": "callbacks.js",
   "scripts": {
     "callback": "node src/callback/index.js",
-    "callback:challenge": "node src/callback/peticiones.js"
+    "callback:challenge": "node src/callback/peticiones.js",
+    "promesas:challenge": "node src/promesas/challenge.js",
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js"
   },
   "author": "",
   "license": "ISC",
